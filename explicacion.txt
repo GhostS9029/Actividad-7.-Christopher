@@ -1,0 +1,1 @@
+clone sirve para copiar el directorio en la computadora local, push es para subir los cambios hechos, pull para actualizar los cambios hechos, branch para crear ramas, switch para cambiar de rama 
